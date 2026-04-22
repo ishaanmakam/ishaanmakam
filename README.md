@@ -91,7 +91,7 @@ Other: Git · QGIS · Figma · Arduino · Xcode
 
 ---
 
-ishaan.makam@gmail.com · [LinkedIn](https://linkedin.com/in/ishaanmakam) · [aeroishaan.carrd.co](https://aeroishaan.carrd.co)
+ishaan.makam@gmail.com · [LinkedIn](https://linkedin.com/in/ishaanmakam) 
 ---
 
 

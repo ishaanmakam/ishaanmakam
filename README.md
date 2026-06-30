@@ -16,7 +16,7 @@ Real-time computer vision system that automatically classifies household waste i
 ---
 ### 🚀 Camp Liftoff — Nonprofit Aerospace Camp
 Founded a 501(c)(3) nonprofit that teaches rocketry, CAD, and flight dynamics to middle schoolers from underserved communities. Grew from 10 to 60+ students across two campuses, raised $10,000+ from Blue Origin and T-Mobile, and launched a second chapter at Tyee Middle School whose team qualified for TARC Nationals 2026.
-- 📄 [Camp Liftoff Website](campliftoff.org)
+- 📄 [Camp Liftoff Website](campliftoff.com)
 
 ---
 ### 🛡️ Network Automation & Cybersecurity Tools
